@@ -1,0 +1,20 @@
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\StudentForm.exe.config
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.csprojResolveAssemblyReference.cache
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.The_Form.resources
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.GenerateResource.Cache
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.exe
+c:\users\dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
+C:\Users\Dominic\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.Formlist.resources
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\bin\Debug\StudentForm.exe.config
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\obj\Debug\StudentForm.exe
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\obj\Debug\StudentForm.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\obj\Debug\StudentForm.The_Form.resources
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\obj\Debug\StudentForm.Formlist.resources
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+\\VBOXSVR\Virtual_Box\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.GenerateResource.Cache

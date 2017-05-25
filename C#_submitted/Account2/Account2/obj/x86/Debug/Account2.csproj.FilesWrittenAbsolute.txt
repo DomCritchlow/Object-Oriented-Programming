@@ -1,0 +1,5 @@
+/Users/Dominic/Projects/Account2/Account2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Dominic/Projects/Account2/Account2/bin/Debug/Account2.exe.mdb
+/Users/Dominic/Projects/Account2/Account2/bin/Debug/Account2.exe
+/Users/Dominic/Projects/Account2/Account2/obj/x86/Debug/Account2.exe
+/Users/Dominic/Projects/Account2/Account2/obj/x86/Debug/Account2.exe.mdb

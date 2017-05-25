@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Banking2/Banking2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Banking2/Account.cs">
+    <Files>
+      <File FileName="Banking2/Program.cs" Line="214" Column="15" />
+      <File FileName="Banking2/Customer.cs" Line="129" Column="12" />
+      <File FileName="Banking2/Account.cs" Line="42" Column="4" />
+      <File FileName="Banking2/Savings.cs" Line="47" Column="42" />
+      <File FileName="Banking2/Checking.cs" Line="7" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

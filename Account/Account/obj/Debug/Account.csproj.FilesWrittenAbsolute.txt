@@ -1,0 +1,4 @@
+/Users/Dominic/Documents/C#/Account/Account/bin/Debug/Account.exe.mdb
+/Users/Dominic/Documents/C#/Account/Account/bin/Debug/Account.exe
+/Users/Dominic/Documents/C#/Account/Account/obj/Debug/Account.exe
+/Users/Dominic/Documents/C#/Account/Account/obj/Debug/Account.exe.mdb

@@ -1,0 +1,10 @@
+E:\Teaching\3005\hw\a1\Account\Account\obj\Debug\ResolveAssemblyReference.cache
+E:\Teaching\3005\hw\a1\Account\Account\bin\Debug\Account.exe
+E:\Teaching\3005\hw\a1\Account\Account\bin\Debug\Account.pdb
+E:\Teaching\3005\hw\a1\Account\Account\obj\Debug\Account.exe
+E:\Teaching\3005\hw\a1\Account\Account\obj\Debug\Account.pdb
+F:\Teaching\3005\hw\A1Solution\Account\Account\Account\obj\Debug\Account.exe
+F:\Teaching\3005\hw\A1Solution\Account\Account\Account\obj\Debug\Account.pdb
+F:\Teaching\3005\hw\A1Solution\Account\Account\Account\bin\Debug\Account.exe
+F:\Teaching\3005\hw\A1Solution\Account\Account\Account\bin\Debug\Account.pdb
+F:\Teaching\3005\hw\A1Solution\Account\Account\Account\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Account">
+</Property><Property Name="Solution File" Value="F:\Teaching\3005\hw\A1Solution\Account\Account\Account.sln">
+</Property><Property Name="Date" Value="Monday, September 17, 2012">
+</Property><Property Name="Time" Value="15:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Account" Source="Account\Account.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Account" Source="Account\Account.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Account.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Account.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Account" Source="Account\Account.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

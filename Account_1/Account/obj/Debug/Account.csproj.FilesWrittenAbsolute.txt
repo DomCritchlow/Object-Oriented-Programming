@@ -1,0 +1,6 @@
+/Users/Dominic/Documents/C#/Account_1/Account/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Dominic/Documents/C#/Account_1/Account/bin/Debug/Account.exe.config
+/Users/Dominic/Documents/C#/Account_1/Account/bin/Debug/Account.exe.mdb
+/Users/Dominic/Documents/C#/Account_1/Account/bin/Debug/Account.exe
+/Users/Dominic/Documents/C#/Account_1/Account/obj/Debug/Account.exe
+/Users/Dominic/Documents/C#/Account_1/Account/obj/Debug/Account.exe.mdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="CarProject/CarProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarProject/Car.cs">
+    <Files>
+      <File FileName="CarProject/Program.cs" Line="151" Column="45" />
+      <File FileName="CarProject/Sedan.cs" Line="13" Column="29" />
+      <File FileName="CarProject/Package.cs" Line="16" Column="18" />
+      <File FileName="CarProject/Car.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

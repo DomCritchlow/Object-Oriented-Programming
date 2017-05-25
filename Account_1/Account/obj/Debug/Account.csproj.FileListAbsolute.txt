@@ -1,0 +1,6 @@
+c:\users\dominic\documents\visual studio 2012\Projects\Account\Account\bin\Debug\Account.exe.config
+c:\users\dominic\documents\visual studio 2012\Projects\Account\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+c:\users\dominic\documents\visual studio 2012\Projects\Account\Account\bin\Debug\Account.exe
+c:\users\dominic\documents\visual studio 2012\Projects\Account\Account\bin\Debug\Account.pdb
+c:\users\dominic\documents\visual studio 2012\Projects\Account\Account\obj\Debug\Account.exe
+c:\users\dominic\documents\visual studio 2012\Projects\Account\Account\obj\Debug\Account.pdb
